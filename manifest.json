@@ -1,0 +1,22 @@
+
+{
+  "name": "Happy Anniversary Jaan",
+  "short_name": "Jaan Portal",
+  "start_url": ".",
+  "display": "standalone",
+  "background_color": "#fff5f5",
+  "theme_color": "#ff4d6d",
+  "description": "Our first anniversary celebration portal.",
+  "icons": [
+    {
+      "src": "https://i.postimg.cc/ZKy10TMX/1767207424283-removebg-preview.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "https://i.postimg.cc/ZKy10TMX/1767207424283-removebg-preview.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
